@@ -1,7 +1,7 @@
 - 👋 Hi, I’m GorimentaL
-- 👀 I’m Cyber Conscious
-- 🌱 I’m currently learning Web Pentesting
-- 💞️ I’m looking to collaborate on instagram
+- 🦊 I’m Cyber Conscious
+- 💀 I’m currently learning Web Pentesting
+- 🌈 I’m looking to collaborate on instagram
 - 📫 Ping me on instagram @deepdarknowledge 
 
 <!---
